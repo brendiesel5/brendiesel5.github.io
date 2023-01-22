@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[59],{371:function(n,o,c){"use strict";$(document).on("click",".button--bbcode",(function(){window.dataLayer.push({event:"BBCodeButtonClick",UserId:XF.config.userId})}))}},[[371,0]]]);

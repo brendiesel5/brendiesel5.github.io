@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[75],{387:function(e,n,r){"use strict";"serviceWorker"in navigator&&navigator.serviceWorker.getRegistrations().then((function(e){e.forEach((function(e){e.active.scriptURL.endsWith("js/xf/service_worker.js")||e.unregister().then((function(e){e&&console.log("Old service worker unregistered")}))}))}))}},[[387,0]]]);

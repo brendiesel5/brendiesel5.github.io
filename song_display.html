@@ -1,0 +1,93 @@
+<html>
+    <title> A History of Kanye West's Samples </title>
+    <head> 
+      <link rel="stylesheet" href="https://unpkg.com/treeflex/dist/css/treeflex.css">
+      <link rel="stylesheet" href="CSS/style.css">
+        <link rel='stylesheet' href='CSS/sd_style.css'>
+        <link rel="icon" href="images/Logo.jpg">
+        <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+    />
+
+    </head>
+    <body>
+      <div class="banner"> </div>
+      <header>
+        <img class="logo" src="images/Logo.jpg" alt="logo">
+        <nav>
+          <ul class="nav_links">
+            <li>
+                <a href="home.html">Home</a>
+            </li>
+            <li>
+                <a href="stats.html"> Stats </a>
+            </li>
+            <li>
+                <a href="information.html"> Information </a>
+            </li>
+            <li>
+                <a class="cta" href="contact.html"><button> Contact </button></a>
+            </li>
+        </ul>
+        </nav>
+        </header>
+
+        <div id="left_side"> 
+          <div id="left_side2">
+            <br>
+            <div id='song_info'> 
+            </div>
+
+            <!--MUSIC PLAYER-->
+            <div id="music-container-parent">
+              <div class="music-container" id="music-container">
+                <div class="music-info">
+                  <h4 id="title"></h4>
+                  <div class="progress-container" id="progress-container">
+                    <div class="progress" id="progress"></div>
+                  </div>
+                </div>
+            
+               
+
+                <audio src="music/POWER.mp3" id="audio"></audio>
+            
+                <div class="img-container">
+                  <img src="images/mbdtf.jpeg" alt="music-cover" id="cover" />
+                </div>
+                <div class="navigation">
+                  <button id="prev" class="action-btn">
+                    <i class="fas fa-backward"></i>
+                  </button>
+                  <button id="play" class="action-btn action-btn-big">
+                    <i class="fas fa-play"></i>
+                  </button>
+                  <button id="next" class="action-btn">
+                    <i class="fas fa-forward"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="vertical_line"> </div>
+          </div>
+           
+          </div>
+
+
+          
+            <div id="sample_section">    
+              <br>       
+              <h3 id="sample_section_title">Samples</h3>
+              
+            </div>
+            
+            
+    </body>
+
+    <script type="text/javascript" src="lib/tree_maker-min.js"></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+    <script src='JS/sd_script.js'></script>
+    <script type="text/javascript" src="sampledata/samples1.json"></script>
+</html>

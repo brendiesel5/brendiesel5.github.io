@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[79],{391:function(e,o,c){"use strict";XF.Cookie.get("welcome_back_dismissed")&&$("#welcome_back").remove(),$(document).on("click touchstart touchend","#welcome_back .overlay-titleCloser",(function(e){e.preventDefault(),XF.Cookie.set("welcome_back_dismissed",!0),$("#welcome_back").remove()}))}},[[391,0]]]);

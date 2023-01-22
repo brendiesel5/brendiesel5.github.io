@@ -1,0 +1,58 @@
+<html>
+    <head> 
+        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="icon" href="images/Logo.jpg">
+        <link rel="stylesheet" href="CSS/statsstyle.css">
+    </head>
+    <body>
+        <div class="banner"> </div>
+            <header>
+        <img class="logo" src="images/Logo.jpg" alt="logo">
+        <nav>
+            <ul class="nav_links">
+                <li>
+                    <a href="home.html">Home</a>
+                </li>
+                <li>
+                    <a href="stats.html"> Stats </a>
+                </li>
+                <li>
+                    <a href="information.html"> Information </a>
+                </li>
+                <li>
+                    <a class="cta" href="contact.html"><button> Contact </button></a>
+                </li>
+            </ul>
+        </nav>
+        </header>
+
+            <div id="chart_wrapper"> 
+                <div class="chart">
+                    <h2> Frequency of Samples over Time</h2>
+                    <canvas id="myChart"></canvas> 
+                </div>
+                <hr>
+                <div class="chart">
+                    <h2> Frequency of Genres of Samples</h2>
+                    <canvas id="myChart2"></canvas> 
+                </div>
+                <hr>
+                <div class="chart">
+                    <h2> Frequency of Type of Sample</h2>
+                    <canvas id="myChart3"></canvas> 
+                </div>
+            </div>
+
+    </body>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+    <script src="./JS/statsscript.js"></script>
+    <script type="text/javascript" src="sampledata/samples1.json"></script>
+    
+    
+    
+    
+    
+</html>
