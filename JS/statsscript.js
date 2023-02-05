@@ -154,6 +154,15 @@ $.getJSON("sampledata/samples1.json", function (json_data){
 				borderWidth: 1,
 				stack: "Stack 0"
 				
+			},
+			{
+				label: 'Jesus Is King',
+				data: album_dict['Jesus Is King'],
+				backgroundColor: 'rgb(11, 40, 221)',
+				borderColor: 'rgb(50, 70, 190)',
+				borderWidth: 1,
+				stack: "Stack 0"
+				
 			}
 		],
 			

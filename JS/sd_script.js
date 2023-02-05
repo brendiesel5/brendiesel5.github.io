@@ -4,7 +4,7 @@ var sd_song_cover = document.createElement("img");
 var song_name_only = window.localStorage.getItem("song_name");
 var song_name = window.localStorage.getItem("title") + ":" + window.localStorage.getItem("song_name");
 var cover_url = window.localStorage.getItem("cover_url");
-var color_url = "obama.png";
+var color_url = "vinyl.jpg";
 sd_song_title.append(song_name_only);
 sd_song_info.appendChild(sd_song_title);
 sd_song_cover.src = cover_url;
@@ -15,9 +15,13 @@ sd_song_info.appendChild(sd_song_cover);
 
 
 $.getJSON("sampledata/samples1.json", function (data){ 
-	
 	var sample_info = data[song_name];
 	var sample_section = document.getElementById("sample_section");
+	if (!sample_info)
+	{
+		var sample_section_title = document.getElementById("sample_section_title");
+		sample_section_title.innerHTML = "No Samples";
+	}
 	for (var i=0; i<sample_info.length; i++)
 	{
 		var title = document.createElement("h4");
@@ -196,6 +200,7 @@ function setProgress(e) {
   const clickX = e.offsetX;
   const duration = audio.duration;
 
+  audio.play();
   audio.currentTime = (clickX / width) * duration;
 }
 

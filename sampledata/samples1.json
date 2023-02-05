@@ -9,7 +9,7 @@
         "Timestamp": "Timestamp: 2:26 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul", 
-        "Date": "(1979)", 
+        "Date": "1979", 
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location:  America"
         } 
@@ -22,7 +22,7 @@
         "Timestamp": "Timestamp: 0:16 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: hiphop", 
-        "Date": "(2002)", 
+        "Date": "2002", 
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location:  America"
         } 
@@ -35,7 +35,7 @@
         "Timestamp": "Timestamp: 0:22 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul", 
-        "Date": "(1973)", 
+        "Date": "1973", 
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location:  America"
         } 
@@ -48,7 +48,7 @@
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: gospel", 
-        "Date": "(1997)", 
+        "Date": "1997", 
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location: America"
         },
@@ -59,7 +59,7 @@
         "Timestamp": "Timestamp: 0:37 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: soul", 
-        "Date": "(1970)", 
+        "Date": "1970", 
         "Pitch": "Pitch: Pitched Down",
         "Location": "Location:  America"
         } 
@@ -70,9 +70,9 @@
         "Artist": "Blackjack",
         "Link": "https://www.youtube.com/embed/C71EfYUIrYo",
         "Timestamp": "Timestamp: 1:25 of Original Song",
-        "Type": "What was Sampled: Vocal Melody + Lyrics", 
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: rock",
-        "Date": "(1980)",
+        "Date": "1980",
         "Pitch": "Pitch: None",
         "Location": "Location: America"
         },
@@ -83,7 +83,7 @@
         "Timestamp": "Timestamp: 0:43 of Original Song",
         "Type": "What was Sampled: Lyrics", 
         "Genre": "Genre: hiphop",
-        "Date": "(2003)",
+        "Date": "2003",
         "Pitch": "Pitch: None",
         "Location": "Location: America"
         }
@@ -96,7 +96,7 @@
         "Timestamp": "Timestamp: 6:03 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: R&B",
-        "Date": "(1981)",
+        "Date": "1981",
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location: America"
         }
@@ -109,7 +109,7 @@
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: R&B",
-        "Date": "(1971)",
+        "Date": "1971",
         "Pitch": "Pitch: Pitched Down",
         "Location": "Location: America"
         }
@@ -122,7 +122,7 @@
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul",
-        "Date": "(1970)",
+        "Date": "1970",
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location: America"
         },
@@ -133,7 +133,7 @@
         "Timestamp": "Timestamp: 3:04 of Original Song",
         "Type": "What was Sampled: Lyrics", 
         "Genre": "Genre: R&B",
-        "Date": "(1995)",
+        "Date": "1995",
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location: America"
         }
@@ -146,7 +146,7 @@
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: funk",
-        "Date": "(1970)",
+        "Date": "1970",
         "Pitch": "Pitch: Pitched Up",
         "Location": "Location: America"
         },
@@ -157,7 +157,7 @@
         "Timestamp": "Timestamp: 3:04 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: R&B",
-        "Date": "(1971)",
+        "Date": "1971",
         "Pitch": "Pitch: None",
         "Location": "Location: America"
         },
@@ -168,7 +168,7 @@
         "Timestamp": "Timestamp: 1:12 of Original Song",
         "Type": "What was Sampled: Lyrics", 
         "Genre": "Genre: hiphop",
-        "Date": "(2001)",
+        "Date": "2001",
         "Pitch": "Pitch: None",
         "Location": "Location: America"
         },
@@ -764,7 +764,7 @@
             "Artist": "Mike Oldfield",
             "Link": "https://www.youtube.com/watch?v=uVkvI3MPbvQ",
             "Timestamp": "Timestamp: 0:45 of Original Song, seen in all of Kanye's song",
-            "Type": "What was Sampled: Vocal Melody + Lyrics",
+            "Type": "What was Sampled: Vocal Melody / Lyrics",
             "Genre": "Genre: rock",
             "Date": "Date: 1983",
             "Pitch": "Pitch:  Pitched Down",
@@ -832,6 +832,105 @@
             "Location": "Location: United Kingdom"
         }
     ],
+    "My Beautiful Dark Twisted Fantasy:Devil In A New Dress":[
+        {
+            "Sample": "Will You Love Me Tomorrow?",
+            "Artist": "Smokey Robinson",
+            "Link": "https://www.youtube.com/watch?v=p8VDWxLj5Wk",
+            "Timestamp": "Timestamp: 2:04 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Instrumental + Vocals",
+            "Genre": "Genre: R&B",
+            "Date": "Date: 1973",
+            "Pitch": "Pitch:  Pitched Up",
+            "Location": "Location: America"
+        }
+    ],
+    "My Beautiful Dark Twisted Fantasy:Runaway":[
+        {
+            "Sample": "Expo '83",
+            "Artist": "The Backyard Heavies",
+            "Link": "https://www.youtube.com/watch?v=EjQ70gCx0H4",
+            "Timestamp": "Timestamp: 2:31 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Drums",
+            "Genre": "Genre: jazz",
+            "Date": "Date: 1971",
+            "Pitch": "Pitch:  None",
+            "Location": "Location: America"
+        },
+        {
+            "Sample": "Mary Jane (Live)",
+            "Artist": "Rick James",
+            "Link": "https://www.youtube.com/watch?v=iL4Ig5YdvbI",
+            "Timestamp": "Timestamp: 6:28 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: R&B",
+            "Date": "Date: 1981",
+            "Pitch": "Pitch:  None",
+            "Location": "Location: America"
+        },
+        {
+            "Sample": "Introduction to Star Time!",
+            "Artist": "Rick James",
+            "Link": "https://www.youtube.com/watch?v=WoUYVKy_CFs",
+            "Timestamp": "Timestamp: 0:00 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: funk",
+            "Date": "Date: 1968",
+            "Pitch": "Pitch:  None",
+            "Location": "Location: America"
+        }
+    ],
+    "My Beautiful Dark Twisted Fantasy:Hell Of A Life":[
+        {
+            "Sample": "She's My Baby",
+            "Artist": "The Mojo Men",
+            "Link": "https://www.youtube.com/watch?v=KgLeOkSm56E",
+            "Timestamp": "Timestamp: 0:00 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Instrumental",
+            "Genre": "Genre: rock",
+            "Date": "Date: 1966",
+            "Pitch": "Pitch:  Pitched Down",
+            "Location": "Location: America"
+        },
+        {
+            "Sample": "Iron Man",
+            "Artist": "Black Sabbath",
+            "Link": "https://www.youtube.com/watch?v=5s7_WbiR79E",
+            "Timestamp": "Timestamp: 0:41 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Vocal Melody / Lyrics",
+            "Genre": "Genre: rock",
+            "Date": "Date: 1970",
+            "Pitch": "Pitch:  Pitched Down",
+            "Location": "Location: America"
+        }
+    ],
+    "My Beautiful Dark Twisted Fantasy:Blame Game":[
+        {
+            "Sample": "Avril 14th",
+            "Artist": "Aphex Twin",
+            "Link": "https://www.youtube.com/watch?v=-LgYzva-xq8",
+            "Timestamp": "Timestamp: 1:37 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Instrumental",
+            "Genre": "Genre: ambient",
+            "Date": "Date: 2001",
+            "Pitch": "Pitch:  None",
+            "Location": "Location:  England"
+        }
+    ],
+    "My Beautiful Dark Twisted Fantasy:Who Will Survive in America":[
+        {
+            "Sample": "Comment #1",
+            "Artist": "Gil Scott-Heron",
+            "Link": "https://www.youtube.com/watch?v=8B6DVdCzwy0",
+            "Timestamp": "Timestamp: 0:50 of Original Song, seen in all of Kanye's song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: N/A",
+            "Date": "Date: 1970",
+            "Pitch": "Pitch:  None",
+            "Location": "Location:  American"
+        }
+    ],
+
     "The Life Of Pablo:Ultralight Beam":[
         {
         "Sample": "Natalie Praying and She's Only 4 Years Old!", 
@@ -1173,6 +1272,45 @@
             "Pitch": "Pitch: Pitched Down",
             "Location": "Location: America"
             }
+    ],
+    "Jesus Is King:Follow God":[
+        {
+        "Sample": "Can You Lose by Following God", 
+        "Artist": "Whole Truth",
+        "Link": "https://www.youtube.com/watch?v=AgsK5xpzT90",
+        "Timestamp": "Timestamp: 1:32 of Original Song",
+        "Type": "What was Sampled: Instrumental + Vocals", 
+        "Genre": "Genre: gospel",
+        "Date": "Date: 1969",
+        "Pitch": "Pitch: Pitched Down",
+        "Location": "Location: America"
+        }
+    ],
+    "Jesus Is King:Closed On Sunday":[
+        {
+        "Sample": "Martín Fierro", 
+        "Artist": "Grupo Vocal Argentino",
+        "Link": "https://www.youtube.com/watch?v=2yV1IsTE97w",
+        "Timestamp": "Timestamp: 0:00 of Original Song",
+        "Type": "What was Sampled: Instrumental", 
+        "Genre": "Genre: folk",
+        "Date": "Date: 1970",
+        "Pitch": "Pitch: None",
+        "Location": "Location: America"
+        }
+    ],
+    "Jesus Is King:Water":[
+        {
+        "Sample": "Snow Job", 
+        "Artist": "Bruce Haack",
+        "Link": "https://www.youtube.com/watch?v=XzYom7WVvos",
+        "Timestamp": "Timestamp: 0:01 of Original Song",
+        "Type": "What was Sampled: Instrumental", 
+        "Genre": "Genre: folk",
+        "Date": "Date: 1970",
+        "Pitch": "Pitch: None",
+        "Location": "Location: America"
+        }
     ]
     
 }

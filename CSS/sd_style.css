@@ -122,7 +122,7 @@ iframe {
 {
   position: absolute;
   margin-left: 50%;
-  width: calc(50%-30px);
+  width: calc(50% - 30px);
   margin-right: 30px;
 }
 
@@ -151,22 +151,17 @@ iframe {
     width: 300px;
   }
   
+  .sample_section_title {
+    text-align: center;
+    margin: 0px auto;
+    width: 100%;
+  }
+
   .img-container {
     position: relative;
     width: 110px;
   }
-  
-  .img-container::after {
-    content: '';
-    background-color: #e2473f;
-    border-radius: 50%;
-    position: absolute;
-    bottom: 100%;
-    left: 100%;
-    width: 20px;
-    height: 20px;
-    transform: translate(-50%, 50%);
-  }
+
   
   .img-container img {
     border-radius: 50%;
