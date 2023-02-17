@@ -70,18 +70,29 @@ class Album {
     var song_list = document.createElement("ul");
     for (let i=0; i<this.tracks.length; i++)
     {
-       var song_name = document.createElement("li");
        //var song_link = document.createElement("a");
        //song_link.appendChild(song_name);
        //song_link.href = "song_display";
-       song_name.append(this.tracks[i]["name"]);
-       song_list.appendChild(song_name);
+
+       $.getJSON("sampledata/samples1.json", function (data){
+        var song_name = document.createElement("li");
+        var sample_info = data[this.title + ":" + this.tracks[i]["name"]];
+        if (!sample_info) {
+          song_name.append(this.tracks[i]["name"]);
+         }
+         else
+         {
+          song_name.append(this.tracks[i]["name"] + "*");
+         }
+         song_list.appendChild(song_name);
         song_name.onclick = () => {
           window.localStorage.setItem("song_name",this.tracks[i]["name"])
           window.localStorage.setItem("title",this.title)
           window.localStorage.setItem("cover_url",this.cover_url)
           window.location = "song_display.html";
         };
+       } .bind(this))
+
         //song_display.html
         
     }
@@ -126,6 +137,8 @@ async function get_albums_and_songs(){
   for (const album of albums["items"])
   {
     if (album["name"].includes("Deluxe")) continue;
+    if (album["name"].includes("KIDS SEE GHOSTS")) continue;
+    if (album["name"].includes("Watch The Throne")) continue;
     if (album["name"].includes("Exclusive")) continue;
     if (album["name"].includes("Orchestration")) continue;
     if (album["name"].includes("Edited")) continue;

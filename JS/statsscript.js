@@ -138,6 +138,15 @@ $.getJSON("sampledata/samples1.json", function (json_data){
 				
 			},
 			{
+				label: 'Yeezus',
+				data: album_dict['Yeezus'],
+				backgroundColor: 'rgb(68, 68, 68)',
+				borderColor: 'rgb(68, 68, 68)',
+				borderWidth: 1,
+				stack: "Stack 0"
+				
+			},
+			{
 				label: 'The Life Of Pablo',
 				data: album_dict['The Life Of Pablo'],
 				backgroundColor: 'rgb(250, 130, 30)',
@@ -156,10 +165,19 @@ $.getJSON("sampledata/samples1.json", function (json_data){
 				
 			},
 			{
-				label: 'Jesus Is King',
-				data: album_dict['Jesus Is King'],
+				label: 'JESUS IS KING',
+				data: album_dict['JESUS IS KING'],
 				backgroundColor: 'rgb(11, 40, 221)',
-				borderColor: 'rgb(50, 70, 190)',
+				borderColor: 'rgb(11, 40, 221)',
+				borderWidth: 1,
+				stack: "Stack 0"
+				
+			},
+			{
+				label: 'Donda',
+				data: album_dict['Donda'],
+				backgroundColor: 'rgb(0, 0, 0)',
+				borderColor: 'rgb(0, 0, 0)',
 				borderWidth: 1,
 				stack: "Stack 0"
 				
@@ -227,15 +245,6 @@ $.getJSON("sampledata/samples1.json", function (json_data){
 					
 				},
 				{
-					label: 'My Beautiful Dark Twisted Fantasy',
-					data: genre_dict['My Beautiful Dark Twisted Fantasy'],
-					backgroundColor: 'rgb(255, 20, 20)',
-					borderColor: 'rgb(255, 20, 20)',
-					borderWidth: 1,
-					stack: "Stack 0"
-					
-				},
-				{
 					label: '808s & Heartbreak',
 					data: genre_dict['808s & Heartbreak'],
 					backgroundColor: 'rgb(220, 220, 230)',
@@ -245,10 +254,55 @@ $.getJSON("sampledata/samples1.json", function (json_data){
 					
 				},
 				{
+					label: 'My Beautiful Dark Twisted Fantasy',
+					data: genre_dict['My Beautiful Dark Twisted Fantasy'],
+					backgroundColor: 'rgb(255, 20, 20)',
+					borderColor: 'rgb(255, 20, 20)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
+					label: 'Yeezus',
+					data: genre_dict['Yeezus'],
+					backgroundColor: 'rgb(68, 68, 68)',
+					borderColor: 'rgb(68, 68, 68)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
 					label: 'The Life Of Pablo',
 					data: genre_dict['The Life Of Pablo'],
 					backgroundColor: 'rgb(250, 130, 30)',
 					borderColor: 'rgb(250, 130, 30)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
+					label: 'ye',
+					data: genre_dict['ye'],
+					backgroundColor: 'rgb(50, 70, 140)',
+					borderColor: 'rgb(50, 70, 140)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
+					label: 'JESUS IS KING',
+					data: genre_dict['JESUS IS KING'],
+					backgroundColor: 'rgb(11, 40, 221)',
+					borderColor: 'rgb(11, 40, 221)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
+					label: 'Donda',
+					data: genre_dict['Donda'],
+					backgroundColor: 'rgb(0, 0, 0)',
+					borderColor: 'rgb(0, 0, 0)',
 					borderWidth: 1,
 					stack: "Stack 0"
 					
@@ -284,7 +338,7 @@ $.getJSON("sampledata/samples1.json", function (json_data){
 	const myChart3 = new Chart(ctx3, {
 		type: 'bar',
 		data: {
-			labels: ['Instrumental + Vocals', 'Instrumental', 'Vocals', 'Drums', 'Lyrics'],
+			labels: ['Instrumental + Vocals', 'Instrumental', 'Vocals', 'Drums'],
 			datasets: [
 				{
 					label: 'The College Dropout',
@@ -331,10 +385,46 @@ $.getJSON("sampledata/samples1.json", function (json_data){
 					
 				},
 				{
+					label: 'Yeezus',
+					data: type_dict['Yeezus'],
+					backgroundColor: 'rgb(68, 68, 68)',
+					borderColor: 'rgb(68, 68, 68)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
 					label: 'The Life Of Pablo',
 					data: type_dict['The Life Of Pablo'],
 					backgroundColor: 'rgb(250, 130, 30)',
 					borderColor: 'rgb(250, 130, 30)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
+					label: 'ye',
+					data: type_dict['ye'],
+					backgroundColor: 'rgb(50, 70, 140)',
+					borderColor: 'rgb(50, 70, 140)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
+					label: 'JESUS IS KING',
+					data: type_dict['JESUS IS KING'],
+					backgroundColor: 'rgb(11, 40, 221)',
+					borderColor: 'rgb(11, 40, 221)',
+					borderWidth: 1,
+					stack: "Stack 0"
+					
+				},
+				{
+					label: 'Donda',
+					data: type_dict['Donda'],
+					backgroundColor: 'rgb(0, 0, 0)',
+					borderColor: 'rgb(0, 0, 0)',
 					borderWidth: 1,
 					stack: "Stack 0"
 					

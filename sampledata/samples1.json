@@ -31,7 +31,7 @@
         {
         "Sample": "Distant Lover", 
         "Artist": "Marvin Gaye",
-        "Link": "https://www.youtube.com/watch?v=NShJXGrNotU",
+        "Link": "https://www.youtube.com/embed/NShJXGrNotU",
         "Timestamp": "Timestamp: 0:22 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul", 
@@ -44,7 +44,7 @@
         {
         "Sample": "Walk With Me", 
         "Artist": "The ARC Choir",
-        "Link": "https://www.youtube.com/watch?v=-Ib36OXrEL8",
+        "Link": "https://www.youtube.com/embed/-Ib36OXrEL8",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: gospel", 
@@ -55,7 +55,7 @@
         {
         "Sample": "(Don't Worry) if There's a Hell Below, We're All Going to Go", 
         "Artist": "Curtis Mayfield",
-        "Link": "https://www.youtube.com/watch?v=NShJXGrNotU",
+        "Link": "https://www.youtube.com/embed/NShJXGrNotU",
         "Timestamp": "Timestamp: 0:37 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: soul", 
@@ -81,7 +81,7 @@
         "Artist": "Jay Z",
         "Link": "https://www.youtube.com/embed/UZK5TSbNuRM",
         "Timestamp": "Timestamp: 0:43 of Original Song",
-        "Type": "What was Sampled: Lyrics", 
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: hiphop",
         "Date": "2003",
         "Pitch": "Pitch: None",
@@ -92,7 +92,7 @@
         {
         "Sample": "A House Is Not a Home", 
         "Artist": "Luther Vandross",
-        "Link": "https://www.youtube.com/watch?v=CGib6okEeZ4",
+        "Link": "https://www.youtube.com/embed/CGib6okEeZ4",
         "Timestamp": "Timestamp: 6:03 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: R&B",
@@ -105,7 +105,7 @@
         {
         "Sample": "Precious Precious", 
         "Artist": "Jackie Moore",
-        "Link": "https://www.youtube.com/watch?v=CGib6okEeZ4",
+        "Link": "https://www.youtube.com/embed/CGib6okEeZ4",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: R&B",
@@ -118,7 +118,7 @@
         {
         "Sample": "Spirit in the Dark", 
         "Artist": "Aretha Franklin",
-        "Link": "https://www.youtube.com/watch?v=qvGmbsLxF0w",
+        "Link": "https://www.youtube.com/embed/qvGmbsLxF0w",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul",
@@ -129,9 +129,9 @@
         {
         "Sample": "Like This and Like That", 
         "Artist": "Monica feat. Mr. Malik",
-        "Link": "https://www.youtube.com/watch?v=1_yFl4ibSW0",
+        "Link": "https://www.youtube.com/embed/1_yFl4ibSW0",
         "Timestamp": "Timestamp: 3:04 of Original Song",
-        "Type": "What was Sampled: Lyrics", 
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: R&B",
         "Date": "1995",
         "Pitch": "Pitch: Pitched Up",
@@ -142,7 +142,7 @@
         {
         "Sample": "Peace and Love: Movement", 
         "Artist": "Mandrill",
-        "Link": "https://www.youtube.com/watch?v=gXCcPAk2NBY",
+        "Link": "https://www.youtube.com/embed/gXCcPAk2NBY",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: funk",
@@ -153,7 +153,7 @@
         {
         "Sample": "The Rainmaker", 
         "Artist": "The 5th Dimension",
-        "Link": "https://www.youtube.com/watch?v=aQ4GgAvYBpY",
+        "Link": "https://www.youtube.com/embed/aQ4GgAvYBpY",
         "Timestamp": "Timestamp: 3:04 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: R&B",
@@ -164,9 +164,9 @@
         {
         "Sample": "Got Nowhere", 
         "Artist": "Beanie Sigel",
-        "Link": "https://www.youtube.com/watch?v=kKnkAbu_shA",
+        "Link": "https://www.youtube.com/embed/kKnkAbu_shA",
         "Timestamp": "Timestamp: 1:12 of Original Song",
-        "Type": "What was Sampled: Lyrics", 
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: hiphop",
         "Date": "2001",
         "Pitch": "Pitch: None",
@@ -175,9 +175,9 @@
         {
         "Sample": "Do It Again (Put Ya Hands Up)", 
         "Artist": "Jay Z",
-        "Link": "https://www.youtube.com/watch?v=hp1QPTRs2U4",
+        "Link": "https://www.youtube.com/embed/hp1QPTRs2U4",
         "Timestamp": "Timestamp: 0:30 of Original Song",
-        "Type": "What was Sampled: Lyrics", 
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: hiphop",
         "Date": "Date: 1999",
         "Pitch": "Pitch: None",
@@ -188,7 +188,7 @@
         {
         "Sample": "Through the Fire", 
         "Artist": "Chaka Khan",
-        "Link": "https://www.youtube.com/watch?v=TjWmw-8-OEk",
+        "Link": "https://www.youtube.com/embed/TjWmw-8-OEk",
         "Timestamp": "Timestamp: 3:11 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: R&B",
@@ -201,7 +201,7 @@
         {
         "Sample": "Fonky Thang", 
         "Artist": "The Dells",
-        "Link": "https://www.youtube.com/watch?v=_PfkMPho49k",
+        "Link": "https://www.youtube.com/embed/_PfkMPho49k",
         "Timestamp": "Timestamp: 0:15 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: R&B",
@@ -213,8 +213,8 @@
         "Sample": "Ambitionz Az a Ridah", 
         "Artist": "2pac",
         "Link": "https://www.youtube.com/embed/cY_-GbttlhA",
-        "Timestamp": "Timestamp: 0:00 of Original Song, Seen in all of Kanye's song",
-        "Type": "What was Sampled: Lyrics", 
+        "Timestamp": "Timestamp: 0:00 of Original Song",
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: hiphop", 
         "Date": "Date: 1996", 
         "Pitch": "Pitch: N/A",
@@ -225,7 +225,7 @@
         {
         "Sample": "Mr. Rockefeller", 
         "Artist": "Bette Midler",
-        "Link": "https://www.youtube.com/watch?v=4duNOdN5-lY",
+        "Link": "https://www.youtube.com/embed/4duNOdN5-lY",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: pop",
@@ -236,8 +236,8 @@
         {
         "Sample": "Doggone", 
         "Artist": "Love",
-        "Link": "https://www.youtube.com/watch?v=yQnEuVEgeTc",
-        "Timestamp": "Timestamp: 4:56 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/yQnEuVEgeTc",
+        "Timestamp": "Timestamp: 4:56 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: rock", 
         "Date": "Date: 1969", 
@@ -247,8 +247,8 @@
         {
         "Sample": "She's Gone to Another", 
         "Artist": "The Whatnauts",
-        "Link": "https://www.youtube.com/embed/cY_-GbttlhA",
-        "Timestamp": "Timestamp: 1:42 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/fJXIGOizJsE",
+        "Timestamp": "Timestamp: 1:42 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: soul", 
         "Date": "Date: 1970", 
@@ -260,7 +260,7 @@
         {
         "Sample": "Someone That I Used To Love", 
         "Artist": "Natalie Cole",
-        "Link": "https://www.youtube.com/watch?v=BfOPOFD7Zqs",
+        "Link": "https://www.youtube.com/embed/BfOPOFD7Zqs",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: singer-songwriter",
@@ -273,7 +273,7 @@
         {
         "Sample": "Candy Maker", 
         "Artist": "Tommy James & The Schondells",
-        "Link": "https://www.youtube.com/watch?v=Rk2h4Y6z-8A",
+        "Link": "https://www.youtube.com/embed/Rk2h4Y6z-8A",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: rock",
@@ -284,7 +284,7 @@
         {
         "Sample": "Someone That I Used To Love", 
         "Artist": "Natalie Cole",
-        "Link": "https://www.youtube.com/watch?v=BfOPOFD7Zqs",
+        "Link": "https://www.youtube.com/embed/BfOPOFD7Zqs",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: singer-songwriter",
@@ -297,7 +297,7 @@
         {
         "Sample": "Move On Up", 
         "Artist": "Curtis Mayfield",
-        "Link": "https://www.youtube.com/watch?v=6Z66wVo7uNw",
+        "Link": "https://www.youtube.com/embed/6Z66wVo7uNw",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: soul",
@@ -310,7 +310,7 @@
         {
         "Sample": "I've Got A Woman", 
         "Artist": "Ray Charles",
-        "Link": "https://www.youtube.com/watch?v=CnI_LuCJ4Ek",
+        "Link": "https://www.youtube.com/embed/CnI_LuCJ4Ek",
         "Timestamp": "Timestamp: 0:23 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: soul",
@@ -323,7 +323,7 @@
         {
         "Sample": "Wildflower", 
         "Artist": "Hank Crawford",
-        "Link": "https://www.youtube.com/watch?v=wW7WgqF4yoo",
+        "Link": "https://www.youtube.com/embed/wW7WgqF4yoo",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: jazz",
@@ -334,7 +334,7 @@
         {
             "Sample": "Living Together Is Keeping Us Apart", 
             "Artist": "Clarence Reid",
-            "Link": "https://www.youtube.com/watch?v=aMj8BhQ0Agk",
+            "Link": "https://www.youtube.com/embed/aMj8BhQ0Agk",
             "Timestamp": "Timestamp: 0:00 of Original Song",
             "Type": "What was Sampled: Drums", 
             "Genre": "Genre: funk",
@@ -347,7 +347,7 @@
         {
         "Sample": "Home Is Where The Hatred Is", 
         "Artist": "Gil Scott-Heron",
-        "Link": "https://www.youtube.com/watch?v=nSpBs1ghyoo",
+        "Link": "https://www.youtube.com/embed/nSpBs1ghyoo",
         "Timestamp": "Timestamp: 0:03 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul",
@@ -360,7 +360,7 @@
         {
         "Sample": "It's Your Thing", 
         "Artist": "Cold Grits",
-        "Link": "https://www.youtube.com/watch?v=cozD75RcSRM",
+        "Link": "https://www.youtube.com/embed/cozD75RcSRM",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: funk",
@@ -371,7 +371,7 @@
         {
             "Sample": "Since You Came In My Life", 
             "Artist": "The New York Community Choir",
-            "Link": "https://www.youtube.com/watch?v=RRcuYBg9S8w",
+            "Link": "https://www.youtube.com/embed/RRcuYBg9S8w",
             "Timestamp": "Timestamp: 0:39 of Original Song",
             "Type": "What was Sampled: Instrumental", 
             "Genre": "Genre: gospel",
@@ -384,7 +384,7 @@
         {
         "Sample": "Rosie", 
         "Artist": "Bill Withers",
-        "Link": "https://www.youtube.com/watch?v=TLdRoeO2OQ4",
+        "Link": "https://www.youtube.com/embed/TLdRoeO2OQ4",
         "Timestamp": "Timestamp: 0:28 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: R&B",
@@ -397,7 +397,7 @@
         {
         "Sample": "My Life Is Loving You", 
         "Artist": "Rose Banks",
-        "Link": "https://www.youtube.com/watch?v=_SiFWsrREEQ",
+        "Link": "https://www.youtube.com/embed/_SiFWsrREEQ",
         "Timestamp": "Timestamp: 0:10 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: soul",
@@ -410,7 +410,7 @@
         {
         "Sample": "My Funny Valentine", 
         "Artist": "Etta James",
-        "Link": "https://www.youtube.com/watch?v=v3aBUGJaUu0",
+        "Link": "https://www.youtube.com/embed/v3aBUGJaUu0",
         "Timestamp": "Timestamp: 0:34 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: blues",
@@ -423,7 +423,7 @@
         {
         "Sample": "Diamonds Are Forever", 
         "Artist": "Shirley Bassey",
-        "Link": "https://www.youtube.com/watch?v=jboEolwHIIA",
+        "Link": "https://www.youtube.com/embed/jboEolwHIIA",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: pop",
@@ -436,7 +436,7 @@
         {
         "Sample": "Today Won't Come Again", 
         "Artist": "Donal Leace",
-        "Link": "https://www.youtube.com/watch?v=4PJ1YyCGg4k",
+        "Link": "https://www.youtube.com/embed/4PJ1YyCGg4k",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: folk",
@@ -449,7 +449,7 @@
         {
         "Sample": "It's Too Late", 
         "Artist": "Otis Redding",
-        "Link": "https://www.youtube.com/watch?v=5bbv8PYQD-0",
+        "Link": "https://www.youtube.com/embed/5bbv8PYQD-0",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: singer-songwriter",
@@ -462,7 +462,7 @@
         {
         "Sample": "Diamonds Are Forever", 
         "Artist": "Shirley Bassey",
-        "Link": "https://www.youtube.com/watch?v=jboEolwHIIA",
+        "Link": "https://www.youtube.com/embed/jboEolwHIIA",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: pop",
@@ -475,7 +475,7 @@
         {
         "Sample": "I'll Erase Away Your Pain", 
         "Artist": "The Whatnauts",
-        "Link": "https://www.youtube.com/watch?v=euSVtelwD_Q",
+        "Link": "https://www.youtube.com/embed/euSVtelwD_Q",
         "Timestamp": "Timestamp: 0:12 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul",
@@ -489,7 +489,7 @@
         "Sample": "Someone Saved My Life Tonight", 
         "Artist": "Elton John",
         "Link": "https://www.youtube.com/embed/A-2vN3YJ29k",
-        "Timestamp": "Timestamp: 1:42 of Original Song, Seen in all of Kanye's song",
+        "Timestamp": "Timestamp: 1:42 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: pop", 
         "Date": "Date: 1975", 
@@ -500,7 +500,7 @@
         "Sample": "The Ruler's Back", 
         "Artist": "Jay Z",
         "Link": "https://www.youtube.com/embed/cY_-GbttlhA",
-        "Timestamp": "Timestamp: 2:26 of Original Song, Seen in all of Kanye's song",
+        "Timestamp": "Timestamp: 2:26 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: hiphop", 
         "Date": "Date: 2001",
@@ -512,8 +512,8 @@
         {
         "Sample": "Kid Charlemagne", 
         "Artist": "Steely Dan",
-        "Link": "https://www.youtube.com/watch?v=2_iq3uPTIQc&t=539s",
-        "Timestamp": "Timestamp: 0:34 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/2_iq3uPTIQc&t=539s",
+        "Timestamp": "Timestamp: 0:34 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: R&B", 
         "Date": "Date: 1976", 
@@ -525,8 +525,8 @@
         {
         "Sample": "Harder, Better, Faster, Stronger", 
         "Artist": "Daft Punk",
-        "Link": "https://www.youtube.com/watch?v=yydNF8tuVmU",
-        "Timestamp": "Timestamp: 2:03 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/yydNF8tuVmU",
+        "Timestamp": "Timestamp: 2:03 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: dance", 
         "Date": "Date: 2001", 
@@ -538,8 +538,8 @@
         {
         "Sample": "My Song", 
         "Artist": "Labi Siffre",
-        "Link": "https://www.youtube.com/watch?v=aBhBG5lqpzM",
-        "Timestamp": "Timestamp: 0:37 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/=aBhBG5lqpzM",
+        "Timestamp": "Timestamp: 0:37 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: soul", 
         "Date": "Date: 1972", 
@@ -549,8 +549,8 @@
         {
         "Sample": "Ambitionz Az a Ridah", 
         "Artist": "2pac",
-        "Link": "https://www.youtube.com/watch?v=cQZqPi1aHNo",
-        "Timestamp": "Timestamp: 0:05 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/cQZqPi1aHNo",
+        "Timestamp": "Timestamp: 0:05 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: hiphop", 
         "Date": "Date: 1996", 
@@ -562,8 +562,8 @@
         {
         "Sample": "P.Y.T (Pretty Young Thing)", 
         "Artist": "Michael Jackson",
-        "Link": "https://www.youtube.com/watch?v=1ZZQuj6htF4",
-        "Timestamp": "Timestamp: 3:15 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/1ZZQuj6htF4",
+        "Timestamp": "Timestamp: 3:15 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: R&B", 
         "Date": "Date: 1982", 
@@ -573,9 +573,9 @@
         {
         "Sample": "In Da Club", 
         "Artist": "50 Cent",
-        "Link": "https://www.youtube.com/watch?v=5qm8PH4xAss",
-        "Timestamp": "Timestamp: 2:16 of Original Song, Seen in all of Kanye's song",
-        "Type": "What was Sampled: Lyrics", 
+        "Link": "https://www.youtube.com/embed/5qm8PH4xAss",
+        "Timestamp": "Timestamp: 2:16 of Original Song",
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: hiphop", 
         "Date": "Date: 2003", 
         "Pitch": "Pitch: N/A",
@@ -587,7 +587,7 @@
         "Sample": "I Got Money", 
         "Artist": "Jeezy",
         "Link": "https://www.youtube.com/embed/a7kduNihACs",
-        "Timestamp": "Timestamp: 0:00 of Original Song, Seen in all of Kanye's song",
+        "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: hiphop", 
         "Date": "Date: 2006", 
@@ -599,8 +599,8 @@
         {
         "Sample": "Long Red (Live at Woodstock, Bethel, NY - August 1969)", 
         "Artist": "Mountain",
-        "Link": "https://www.youtube.com/watch?v=xRtZ0GFuFG8",
-        "Timestamp": "Timestamp: 0:22 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/xRtZ0GFuFG8",
+        "Timestamp": "Timestamp: 0:22 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: rock",
         "Date": "Date: 1969", 
@@ -612,8 +612,8 @@
         {
         "Sample": "Sing Swan Song", 
         "Artist": "Can",
-        "Link": "https://www.youtube.com/watch?v=3VmM8qRRLwU",
-        "Timestamp": "Timestamp: 0:38 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/3VmM8qRRLwU",
+        "Timestamp": "Timestamp: 0:38 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: rock",
         "Date": "Date: 1972", 
@@ -625,8 +625,8 @@
         {
         "Sample": "If We Can't Be Lovers", 
         "Artist": "Prince Phillip Mitchell",
-        "Link": "https://www.youtube.com/watch?v=0StV8XtoO34",
-        "Timestamp": "Timestamp: 0:00 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/0StV8XtoO34",
+        "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: R&B",
         "Date": "Date: 2004", 
@@ -636,8 +636,8 @@
         {
         "Sample": "Bring the Noise", 
         "Artist": "Public Enemy",
-        "Link": "https://www.youtube.com/watch?v=Z_oMYKrtGpQ",
-        "Timestamp": "Timestamp: 0:48 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/Z_oMYKrtGpQ",
+        "Timestamp": "Timestamp: 0:48 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: hiphop",
         "Date": "Date: 1987", 
@@ -647,8 +647,8 @@
         {
         "Sample": "Jimbrowski", 
         "Artist": "Jungle Brothers",
-        "Link": "https://www.youtube.com/watch?v=z7m82LUL4Fo",
-        "Timestamp": "Timestamp: 1:07 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/z7m82LUL4Fo",
+        "Timestamp": "Timestamp: 1:07 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: hiphop",
         "Date": "Date: 1987", 
@@ -660,8 +660,8 @@
         {
         "Sample": "Save the Country (Live)", 
         "Artist": "Laura Nyro",
-        "Link": "https://www.youtube.com/watch?v=V3dpsVLnMSA",
-        "Timestamp": "Timestamp: 0:50 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/V3dpsVLnMSA",
+        "Timestamp": "Timestamp: 0:50 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: folk",
         "Date": "Date: 2004", 
@@ -671,8 +671,8 @@
         {
         "Sample": "Long Red (Live at Woodstock, Bethel, NY - August 1969)", 
         "Artist": "Mountain",
-        "Link": "https://www.youtube.com/watch?v=xRtZ0GFuFG8",
-        "Timestamp": "Timestamp: 0:02 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/xRtZ0GFuFG8",
+        "Timestamp": "Timestamp: 0:02 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: rock",
         "Date": "Date: 1969", 
@@ -684,9 +684,9 @@
         {
         "Sample": "Streets Is Talking", 
         "Artist": "Jay-Z",
-        "Link": "https://www.youtube.com/watch?v=3XAkMx8HyoU",
-        "Timestamp": "Timestamp: 1:49 of Original Song, Seen in all of Kanye's song",
-        "Type": "What was Sampled: Lyrics", 
+        "Link": "https://www.youtube.com/embed/3XAkMx8HyoU",
+        "Timestamp": "Timestamp: 1:49 of Original Song",
+        "Type": "What was Sampled: Vocal Melody / Lyrics", 
         "Genre": "Genre: hiphop",
         "Date": "Date: 2000", 
         "Pitch": "Pitch: N/A",
@@ -697,8 +697,8 @@
         {
         "Sample": "It's Gonna Be Lovely", 
         "Artist": "Prince",
-        "Link": "https://www.youtube.com/watch?v=V3dpsVLnMSA",
-        "Timestamp": "Timestamp: 3:05 of Original Song, Seen in all of Kanye's song",
+        "Link": "https://www.youtube.com/embed/V3dpsVLnMSA",
+        "Timestamp": "Timestamp: 3:05 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: pop",
         "Date": "Date: 1979", 
@@ -710,7 +710,7 @@
         {
         "Sample": "Fiori Mistici", 
         "Artist": "Michelo Fedrigotti & Danilo Lorenzini",
-        "Link": "https://www.youtube.com/watch?v=Rk2h4Y6z-8A",
+        "Link": "https://www.youtube.com/embed/Rk2h4Y6z-8A",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: rock",
@@ -723,7 +723,7 @@
         {
         "Sample": "Ammonia Avenue", 
         "Artist": "The Alan Parsons Project",
-        "Link": "https://www.youtube.com/watch?v=EX64VlgP9j4",
+        "Link": "https://www.youtube.com/embed/EX64VlgP9j4",
         "Timestamp": "Timestamp: 2:30 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: rock",
@@ -736,7 +736,7 @@
         {
         "Sample": "Kissing in the Rain", 
         "Artist": "Patrick Doyle",
-        "Link": "https://www.youtube.com/watch?v=y4fcqHVkxqE",
+        "Link": "https://www.youtube.com/embed/y4fcqHVkxqE",
         "Timestamp": "Timestamp: 0:30 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: classical",
@@ -749,7 +749,7 @@
         {
         "Sample": "See-Line Woman", 
         "Artist": "Nina Sinone",
-        "Link": "https://www.youtube.com/watch?v=hVEbzdN_7n0",
+        "Link": "https://www.youtube.com/embed/hVEbzdN_7n0",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: jazz",
@@ -762,8 +762,8 @@
         {
             "Sample": "In High Places",
             "Artist": "Mike Oldfield",
-            "Link": "https://www.youtube.com/watch?v=uVkvI3MPbvQ",
-            "Timestamp": "Timestamp: 0:45 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/uVkvI3MPbvQ",
+            "Timestamp": "Timestamp: 0:45 of Original Song",
             "Type": "What was Sampled: Vocal Melody / Lyrics",
             "Genre": "Genre: rock",
             "Date": "Date: 1983",
@@ -775,8 +775,8 @@
         {
             "Sample": "You Showed Me",
             "Artist": "Enoch Light and the Glittering Guitars",
-            "Link": "https://www.youtube.com/watch?v=vWAUp_W29Tk",
-            "Timestamp": "Timestamp: 1:10 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/vWAUp_W29Tk",
+            "Timestamp": "Timestamp: 1:10 of Original Song",
             "Type": "What was Sampled: Instrumental",
             "Genre": "Genre: rock",
             "Date": "Date: 1969",
@@ -789,7 +789,7 @@
             "Sample": "Afromerica",
             "Artist": "Continent Number 6",
             "Link": "https://www.youtube.com/embed/e-dtwySzcQc",
-            "Timestamp": "Timestamp: 0:04 of Original Song, seen in all of Kanye's song",
+            "Timestamp": "Timestamp: 0:04 of Original Song",
             "Type": "What was Sampled: Vocals",
             "Genre": "Genre: soul",
             "Date": "Date: 1978",
@@ -800,7 +800,7 @@
             "Sample": "It's Your Thing",
             "Artist": "Cold Grits",
             "Link": "https://www.youtube.com/embed/cozD75RcSRM",
-            "Timestamp": "Timestamp: 0:00 of Original Song, seen in all of Kanye's song",
+            "Timestamp": "Timestamp: 0:00 of Original Song",
             "Type": "What was Sampled: Drums",
             "Genre": "Genre: funk",
             "Date": "Date: 1969",
@@ -811,7 +811,7 @@
             "Sample": "21st Century Schizoid Man",
             "Artist": "King Crimson",
             "Link": "https://www.youtube.com/embed/7OvW8Z7kiws",
-            "Timestamp": "Timestamp: 1:33 of Original Song, seen in all of Kanye's song",
+            "Timestamp": "Timestamp: 1:33 of Original Song",
             "Type": "What was Sampled: Vocals",
             "Genre": "Genre: rock",
             "Date": "Date: 1969",
@@ -823,8 +823,8 @@
         {
             "Sample": "You Are - I Am",
             "Artist": "Manfred Mann's Earth Band",
-            "Link": "https://www.youtube.com/watch?v=0k9CqTu67TU",
-            "Timestamp": "Timestamp: 2:04 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/0k9CqTu67TU",
+            "Timestamp": "Timestamp: 2:04 of Original Song",
             "Type": "What was Sampled: Instrumental",
             "Genre": "Genre: rock",
             "Date": "Date: 1969",
@@ -836,8 +836,8 @@
         {
             "Sample": "Will You Love Me Tomorrow?",
             "Artist": "Smokey Robinson",
-            "Link": "https://www.youtube.com/watch?v=p8VDWxLj5Wk",
-            "Timestamp": "Timestamp: 2:04 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/p8VDWxLj5Wk",
+            "Timestamp": "Timestamp: 2:04 of Original Song",
             "Type": "What was Sampled: Instrumental + Vocals",
             "Genre": "Genre: R&B",
             "Date": "Date: 1973",
@@ -849,8 +849,8 @@
         {
             "Sample": "Expo '83",
             "Artist": "The Backyard Heavies",
-            "Link": "https://www.youtube.com/watch?v=EjQ70gCx0H4",
-            "Timestamp": "Timestamp: 2:31 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/EjQ70gCx0H4",
+            "Timestamp": "Timestamp: 2:31 of Original Song",
             "Type": "What was Sampled: Drums",
             "Genre": "Genre: jazz",
             "Date": "Date: 1971",
@@ -860,8 +860,8 @@
         {
             "Sample": "Mary Jane (Live)",
             "Artist": "Rick James",
-            "Link": "https://www.youtube.com/watch?v=iL4Ig5YdvbI",
-            "Timestamp": "Timestamp: 6:28 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/iL4Ig5YdvbI",
+            "Timestamp": "Timestamp: 6:28 of Original Song",
             "Type": "What was Sampled: Vocals",
             "Genre": "Genre: R&B",
             "Date": "Date: 1981",
@@ -871,8 +871,8 @@
         {
             "Sample": "Introduction to Star Time!",
             "Artist": "Rick James",
-            "Link": "https://www.youtube.com/watch?v=WoUYVKy_CFs",
-            "Timestamp": "Timestamp: 0:00 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/WoUYVKy_CFs",
+            "Timestamp": "Timestamp: 0:00 of Original Song",
             "Type": "What was Sampled: Vocals",
             "Genre": "Genre: funk",
             "Date": "Date: 1968",
@@ -884,8 +884,8 @@
         {
             "Sample": "She's My Baby",
             "Artist": "The Mojo Men",
-            "Link": "https://www.youtube.com/watch?v=KgLeOkSm56E",
-            "Timestamp": "Timestamp: 0:00 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/KgLeOkSm56E",
+            "Timestamp": "Timestamp: 0:00 of Original Song",
             "Type": "What was Sampled: Instrumental",
             "Genre": "Genre: rock",
             "Date": "Date: 1966",
@@ -895,8 +895,8 @@
         {
             "Sample": "Iron Man",
             "Artist": "Black Sabbath",
-            "Link": "https://www.youtube.com/watch?v=5s7_WbiR79E",
-            "Timestamp": "Timestamp: 0:41 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/5s7_WbiR79E",
+            "Timestamp": "Timestamp: 0:41 of Original Song",
             "Type": "What was Sampled: Vocal Melody / Lyrics",
             "Genre": "Genre: rock",
             "Date": "Date: 1970",
@@ -908,8 +908,8 @@
         {
             "Sample": "Avril 14th",
             "Artist": "Aphex Twin",
-            "Link": "https://www.youtube.com/watch?v=-LgYzva-xq8",
-            "Timestamp": "Timestamp: 1:37 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/-LgYzva-xq8",
+            "Timestamp": "Timestamp: 1:37 of Original Song",
             "Type": "What was Sampled: Instrumental",
             "Genre": "Genre: ambient",
             "Date": "Date: 2001",
@@ -921,8 +921,8 @@
         {
             "Sample": "Comment #1",
             "Artist": "Gil Scott-Heron",
-            "Link": "https://www.youtube.com/watch?v=8B6DVdCzwy0",
-            "Timestamp": "Timestamp: 0:50 of Original Song, seen in all of Kanye's song",
+            "Link": "https://www.youtube.com/embed/8B6DVdCzwy0",
+            "Timestamp": "Timestamp: 0:50 of Original Song",
             "Type": "What was Sampled: Vocals",
             "Genre": "Genre: N/A",
             "Date": "Date: 1970",
@@ -930,7 +930,167 @@
             "Location": "Location:  American"
         }
     ],
-
+    "Yeezus:On Sight":[
+        {
+            "Sample": "Sermon (He'll Give Us What We Really Need)",
+            "Artist": "Holy Name of Mary Choral Family",
+            "Link": "https://www.youtube.com/embed/vyf7f7ouzjk",
+            "Timestamp": "Timestamp: 1:09 of Original Song",
+            "Type": "What was Sampled: Instrumental + Vocals",
+            "Genre": "Genre: gospel",
+            "Date": "Date: 1983",
+            "Pitch": "Pitch:  None",
+            "Location": "Location: America"
+        }
+    ],
+    "Yeezus:I Am A God":[
+        {
+            "Sample": "Forward Inna Dem Clothes",
+            "Artist": "Capleton",
+            "Link": "https://www.youtube.com/embed/MU25MY9ujkg",
+            "Timestamp": "Timestamp: 0:00 of Original Song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: reggae",
+            "Date": "Date: 2001",
+            "Pitch": "Pitch:  None",
+            "Location": "Location:  Jamaica"
+        }
+    ],
+    "Yeezus:New Slaves":[
+        {
+            "Sample": "HBA War",
+            "Artist": "Dutch E Germ",
+            "Link": "https://soundcloud.com/dutch-e-germ/hba-war",
+            "Timestamp": "Timestamp: 0:16 of Original Song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: N/A",
+            "Date": "Date: 2013",
+            "Pitch": "Pitch:  None",
+            "Location": "Location:  America"
+        },
+        {
+            "Sample": "Cruel Cold Winter",
+            "Artist": "Teachers",
+            "Link": "https://www.youtube.com/embed/nv346L-xqXE",
+            "Timestamp": "Timestamp: 0:00 of Original Song",
+            "Type": "What was Sampled: Instrumental",
+            "Genre": "Genre: electronic",
+            "Date": "Date: 2013",
+            "Pitch": "Pitch:  Pitched Down",
+            "Location": "Location:  America"
+        },
+        {
+            "Sample": "Gyöngyhajú Lány",
+            "Artist": "Omega",
+            "Link": "https://www.youtube.com/embed/nx4UDTmqIqM",
+            "Timestamp": "Timestamp: 0:31 of Original Song",
+            "Type": "What was Sampled: Instrumental + Vocals",
+            "Genre": "Genre: rock",
+            "Date": "Date: 1969",
+            "Pitch": "Pitch:  Pitched Down",
+            "Location": "Location:  Hungary"
+        }
+    ],
+    "Yeezus:Hold My Liquor":[
+        {
+            "Sample": "Feminine",
+            "Artist": "Arca",
+            "Link": "https://www.youtube.com/embed/tik6ZiYd5Rw",
+            "Timestamp": "Timestamp: 0:00 of Original Song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: electronic",
+            "Date": "Date: 2013",
+            "Pitch": "Pitch:  None",
+            "Location": "Location:  Venezuela"
+        }
+    ],
+    "Yeezus:I'm In It":[
+        {
+            "Sample": "Lately",
+            "Artist": "Kenny Lattimore",
+            "Link": "https://www.youtube.com/embed/mkJQzvrcBZM",
+            "Timestamp": "Timestamp: 0:13 of Original Song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: R&B",
+            "Date": "Date: 2001",
+            "Pitch": "Pitch:  Pitched Down",
+            "Location": "Location:  America"
+        }
+    ],
+    "Yeezus:Blood on the Leaves":[
+        {
+            "Sample": "Strange Fruit",
+            "Artist": "Nina Simone",
+            "Link": "https://www.youtube.com/embed/BnuEMdUUrZQ",
+            "Timestamp": "Timestamp: 0:10 of Original Song",
+            "Type": "What was Sampled: Instrumental + Vocals",
+            "Genre": "Genre: jazz",
+            "Date": "Date: 1965",
+            "Pitch": "Pitch:  Pitched Up",
+            "Location": "Location:  America"
+        },
+        {
+            "Sample": "R U Ready",
+            "Artist": "TNGHT",
+            "Link": "https://www.youtube.com/embed/mdahbvr2rLg",
+            "Timestamp": "Timestamp: 0:35 of Original Song",
+            "Type": "What was Sampled: Instrumental",
+            "Genre": "Genre: dance",
+            "Date": "Date: 2012",
+            "Pitch": "Pitch:  Pitched Up",
+            "Location": "Location:  Scotland"
+        }
+    ],
+    "Yeezus:Guilt Trip":[
+        {
+            "Sample": "Blocka (Ackeejuice Rockers Remix)",
+            "Artist": "Pusha T",
+            "Link": "https://www.youtube.com/embed/qfR00nu5xQw",
+            "Timestamp": "Timestamp: 0:29 of Original Song",
+            "Type": "What was Sampled: Instrumental + Vocals",
+            "Genre": "Genre: hiphop",
+            "Date": "Date: 2013",
+            "Pitch": "Pitch:  Pitched Down",
+            "Location": "Location:  America"
+        }
+    ],
+    "Yeezus:Send It Up":[
+        {
+            "Sample": "Stop Live in a De Pass",
+            "Artist": "Beenie Man",
+            "Link": "https://www.youtube.com/embed/fs49tMlU7_8",
+            "Timestamp": "Timestamp: 0:13 of Original Song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: reggae",
+            "Date": "Date: 1995",
+            "Pitch": "Pitch:  None",
+            "Location": "Location:  Jamaica"
+        }
+    ],
+    "Yeezus:Bound 2":[
+        {
+            "Sample": "Bound",
+            "Artist": "Ponderosa Twins Plus One",
+            "Link": "https://www.youtube.com/embed/d6mGHwHMB5s",
+            "Timestamp": "Timestamp: 0:14 of Original Song",
+            "Type": "What was Sampled: Instrumental + Vocals",
+            "Genre": "Genre: soul",
+            "Date": "Date: 1971",
+            "Pitch": "Pitch:  Pitched Down",
+            "Location": "Location:  America"
+        },
+        {
+            "Sample": "Sweet Nothin's",
+            "Artist": "Brenda Lee",
+            "Link": "https://www.youtube.com/embed/TmNmJegX_FM",
+            "Timestamp": "Timestamp: 0:00 of Original Song",
+            "Type": "What was Sampled: Vocals",
+            "Genre": "Genre: rock",
+            "Date": "Date: 1959",
+            "Pitch": "Pitch:  None",
+            "Location": "Location:  America"
+        }
+    ],
     "The Life Of Pablo:Ultralight Beam":[
         {
         "Sample": "Natalie Praying and She's Only 4 Years Old!", 
@@ -961,7 +1121,7 @@
         {
         "Sample": "Panda", 
         "Artist": "Desiigner",
-        "Link": "https://www.youtube.com/watch?v=4NJlUribp3c",
+        "Link": "https://www.youtube.com/embed/4NJlUribp3c",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: hiphop",
@@ -996,7 +1156,7 @@
         {
             "Sample": "Mi Sono Svegliato E... Ho Chiuso Gli Occhi", 
             "Artist": "Rovescio della Medaglia",
-            "Link": "https://www.youtube.com/watch?v=PDhjMVIoOlc&feature=emb_title",
+            "Link": "https://www.youtube.com/embed/PDhjMVIoOlc&feature=emb_title",
             "Timestamp": "Timestamp: 1:29 of Original Song",
             "Type": "What was Sampled: Instrumental", 
             "Genre": "Genre: rock",
@@ -1020,7 +1180,7 @@
         {
         "Sample": "Talagh", 
         "Artist": "Googoosh",
-        "Link": "https://www.youtube.com/watch?v=ccCB_Iz2Vcc",
+        "Link": "https://www.youtube.com/embed/ccCB_Iz2Vcc",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: hiphop",
@@ -1033,7 +1193,7 @@
         {
         "Sample": "So Alive (Acapella)", 
         "Artist": "Kings of Tomorrow",
-        "Link": "https://www.youtube.com/watch?v=ccCB_Iz2Vcc",
+        "Link": "https://www.youtube.com/embed/ccCB_Iz2Vcc",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: dance",
@@ -1046,7 +1206,7 @@
         {
         "Sample": "Human", 
         "Artist": "Goldfrapp",
-        "Link": "https://www.youtube.com/watch?v=E-3-nPeICWk",
+        "Link": "https://www.youtube.com/embed/E-3-nPeICWk",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: electronic",
@@ -1059,7 +1219,7 @@
         {
         "Sample": "Fantastic Freaks at the Dixie", 
         "Artist": "DJ Grand Wizard Theodore and The Fantastic Five",
-        "Link": "https://www.youtube.com/watch?v=94snQ9hXa7o",
+        "Link": "https://www.youtube.com/embed/94snQ9hXa7o",
         "Timestamp": "Timestamp: 0:04 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: hiphop",
@@ -1072,7 +1232,7 @@
         {
         "Sample": "Hit", 
         "Artist": "Section 25",
-        "Link": "https://www.youtube.com/watch?v=7GJxO-mBnoY",
+        "Link": "https://www.youtube.com/embed/7GJxO-mBnoY",
         "Timestamp": "Timestamp: 0:20 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: rock",
@@ -1085,7 +1245,7 @@
         {
         "Sample": "Couches", 
         "Artist": "Frank Dukes",
-        "Link": "https://www.youtube.com/watch?v=7ULm3_ulENI",
+        "Link": "https://www.youtube.com/embed/7ULm3_ulENI",
         "Timestamp": "Timestamp: 1:47 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: ambient",
@@ -1098,7 +1258,7 @@
         {
         "Sample": "Answers Me", 
         "Artist": "Arthur Russell",
-        "Link": "https://www.youtube.com/watch?v=ouztI7-G29U",
+        "Link": "https://www.youtube.com/embed/ouztI7-G29U",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: indie",
@@ -1109,7 +1269,7 @@
         {
         "Sample": "Joy", 
         "Artist": "Isaac Hayes",
-        "Link": "https://www.youtube.com/watch?v=OmZAvAuCDn4",
+        "Link": "https://www.youtube.com/embed/OmZAvAuCDn4",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Drums", 
         "Genre": "Genre: R&B",
@@ -1122,7 +1282,7 @@
         {
         "Sample": "Give Me My Love", 
         "Artist": "Johnny Guitar Watson",
-        "Link": "https://www.youtube.com/watch?v=jawLEK8icbw",
+        "Link": "https://www.youtube.com/embed/jawLEK8icbw",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: blues",
@@ -1133,7 +1293,7 @@
         {
         "Sample": "Stand Up and Shout About Love", 
         "Artist": "Larry Graham",
-        "Link": "https://www.youtube.com/watch?v=KGtT5P28MnI",
+        "Link": "https://www.youtube.com/embed/KGtT5P28MnI",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: R&B",
@@ -1144,7 +1304,7 @@
         {
             "Sample": "Suzie Thundertussy", 
             "Artist": "Junie Morrison",
-            "Link": "https://www.youtube.com/watch?v=CtllZDSo2Mk",
+            "Link": "https://www.youtube.com/embed/CtllZDSo2Mk",
             "Timestamp": "Timestamp: 0:00 of Original Song",
             "Type": "What was Sampled: Instrumental + Vocals", 
             "Genre": "Genre: funk",
@@ -1157,7 +1317,7 @@
         {
         "Sample": "(I Know) I'm Losing You", 
         "Artist": "Rare Earth",
-        "Link": "https://www.youtube.com/watch?v=F28X8--2dFU",
+        "Link": "https://www.youtube.com/embed/F28X8--2dFU",
         "Timestamp": "Timestamp: 0:40 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: rock",
@@ -1168,7 +1328,7 @@
         {
         "Sample": "Mystery Love",
         "Artist": "Mr. Fingers",
-        "Link": "https://www.youtube.com/watch?v=5tqErnknRsE",
+        "Link": "https://www.youtube.com/embed/5tqErnknRsE",
         "Timestamp": "Timestamp: 0:01 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: dance",
@@ -1179,7 +1339,7 @@
         {
         "Sample": "I Get Lifted", 
         "Artist": "Barbara Tucker",
-        "Link": "https://www.youtube.com/watch?v=b58G0n__eaw",
+        "Link": "https://www.youtube.com/embed/b58G0n__eaw",
         "Timestamp": "Timestamp: 1:24 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: dance",
@@ -1190,7 +1350,7 @@
         {
         "Sample": "Deep Inside", 
         "Artist": "Hardrive",
-        "Link": "https://www.youtube.com/watch?v=OJ0WL4TJVCg",
+        "Link": "https://www.youtube.com/embed/OJ0WL4TJVCg",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: dance",
@@ -1203,7 +1363,7 @@
         {
         "Sample": "Where I'm From", 
         "Artist": "Jay-Z",
-        "Link": "https://www.youtube.com/watch?v=kWcyCSyVxE8",
+        "Link": "https://www.youtube.com/embed/kWcyCSyVxE8",
         "Timestamp": "Timestamp: 0:06 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: hiphop",
@@ -1216,7 +1376,7 @@
         {
         "Sample": "Kothbiro", 
         "Artist": "Black Savage",
-        "Link": "https://www.youtube.com/watch?v=btn9sV4D9tM",
+        "Link": "https://www.youtube.com/embed/btn9sV4D9tM",
         "Timestamp": "Timestamp: 0:52 of Original Song",
         "Type": "What was Sampled: Vocals", 
         "Genre": "Genre: rock",
@@ -1229,10 +1389,10 @@
         {
         "Sample": "Children Get Together", 
         "Artist": "The Edwin Hawkins Singers",
-        "Link": "https://www.youtube.com/watch?v=1f3KCCU4QUM",
+        "Link": "https://www.youtube.com/embed/1f3KCCU4QUM",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
-        "Genre": "Genre: Gospel",
+        "Genre": "Genre: gospel",
         "Date": "Date: 1971",
         "Pitch": "Pitch: None",
         "Location": "Location: America"
@@ -1240,7 +1400,7 @@
         {
             "Sample": "Hey Young World", 
             "Artist": "Slick Rick",
-            "Link": "https://www.youtube.com/watch?v=ea-ezolZq5k",
+            "Link": "https://www.youtube.com/embed/ea-ezolZq5k",
             "Timestamp": "Timestamp: 2:36 of Original Song",
             "Type": "What was Sampled: Instrumental + Vocals", 
             "Genre": "Genre: hiphop",
@@ -1253,7 +1413,7 @@
         {
         "Sample": "Someday", 
         "Artist": "Shirley Ann Lee",
-        "Link": "https://www.youtube.com/watch?v=D7kSw_OFy2Y",
+        "Link": "https://www.youtube.com/embed/D7kSw_OFy2Y",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: gospel",
@@ -1264,7 +1424,7 @@
         {
             "Sample": "Take Me for a Little While", 
             "Artist": "The Royal Jesters",
-            "Link": "https://www.youtube.com/watch?v=AKG0j29VtIg",
+            "Link": "https://www.youtube.com/embed/AKG0j29VtIg",
             "Timestamp": "Timestamp: 0:01 of Original Song",
             "Type": "What was Sampled: Instrumental + Vocals", 
             "Genre": "Genre: R&B",
@@ -1273,11 +1433,11 @@
             "Location": "Location: America"
             }
     ],
-    "Jesus Is King:Follow God":[
+    "JESUS IS KING:Follow God":[
         {
         "Sample": "Can You Lose by Following God", 
         "Artist": "Whole Truth",
-        "Link": "https://www.youtube.com/watch?v=AgsK5xpzT90",
+        "Link": "https://www.youtube.com/embed/AgsK5xpzT90",
         "Timestamp": "Timestamp: 1:32 of Original Song",
         "Type": "What was Sampled: Instrumental + Vocals", 
         "Genre": "Genre: gospel",
@@ -1286,11 +1446,11 @@
         "Location": "Location: America"
         }
     ],
-    "Jesus Is King:Closed On Sunday":[
+    "JESUS IS KING:Closed On Sunday":[
         {
         "Sample": "Martín Fierro", 
         "Artist": "Grupo Vocal Argentino",
-        "Link": "https://www.youtube.com/watch?v=2yV1IsTE97w",
+        "Link": "https://www.youtube.com/embed/2yV1IsTE97w",
         "Timestamp": "Timestamp: 0:00 of Original Song",
         "Type": "What was Sampled: Instrumental", 
         "Genre": "Genre: folk",
@@ -1299,16 +1459,107 @@
         "Location": "Location: America"
         }
     ],
-    "Jesus Is King:Water":[
+    "JESUS IS KING:Water":[
         {
         "Sample": "Snow Job", 
         "Artist": "Bruce Haack",
-        "Link": "https://www.youtube.com/watch?v=XzYom7WVvos",
+        "Link": "https://www.youtube.com/embed/XzYom7WVvos",
         "Timestamp": "Timestamp: 0:01 of Original Song",
         "Type": "What was Sampled: Instrumental", 
-        "Genre": "Genre: folk",
-        "Date": "Date: 1970",
+        "Genre": "Genre: electronic",
+        "Date": "Date: 1981",
+        "Pitch": "Pitch: Pitched Down",
+        "Location": "Location: Canada"
+        }
+    ],
+    "JESUS IS KING:God Is":[
+        {
+        "Sample": "God Is", 
+        "Artist": "Rev. James Cleveland",
+        "Link": "https://www.youtube.com/embed/GauUHGDiTXk",
+        "Timestamp": "Timestamp: 0:07 of Original Song",
+        "Type": "What was Sampled: Instrumental + Vocals", 
+        "Genre": "Genre: gospel",
+        "Date": "Date: 1979",
+        "Pitch": "Pitch: Pitched Up",
+        "Location": "Location: America"
+        }
+    ],
+    "JESUS IS KING:Use This Gospel":[
+        {
+        "Sample": "Costume Party", 
+        "Artist": "Two Door Cinema Club",
+        "Link": "https://www.youtube.com/embed/sz3AL5w1Rfs",
+        "Timestamp": "Timestamp: 0:00 of Original Song",
+        "Type": "What was Sampled: Instrumental", 
+        "Genre": "Genre: indie",
+        "Date": "Date: 2009",
+        "Pitch": "Pitch: Pitched Down",
+        "Location": "Location: United Kingdom"
+        }
+    ],
+    "Donda:God Breathed":[
+        {
+        "Sample": "Bell Head (Live)", 
+        "Artist": "Liquid Liquid",
+        "Link": "https://www.youtube.com/embed/JS0Hp96icv8",
+        "Timestamp": "Timestamp: 0:34 of Original Song",
+        "Type": "What was Sampled: Vocals", 
+        "Genre": "Genre: dance",
+        "Date": "Date: 1980",
         "Pitch": "Pitch: None",
+        "Location": "Location: America"
+        }
+    ],
+    "Donda:Believe What I Say":[
+        {
+        "Sample": "Doo Wop (That Thing)", 
+        "Artist": "Lauryn Hill",
+        "Link": "https://www.youtube.com/embed/71rs8r5GXzY",
+        "Timestamp": "Timestamp: 0:00 of Original Song",
+        "Type": "What was Sampled: Vocals", 
+        "Genre": "Genre: R&B",
+        "Date": "Date: 1998",
+        "Pitch": "Pitch: None",
+        "Location": "Location: America"
+        }
+    ],
+    "Donda:Remote Control":[
+        {
+        "Sample": "The Globglogabgalab", 
+        "Artist": "Tony Halstead",
+        "Link": "https://www.youtube.com/embed/OrcxJUVz5zY",
+        "Timestamp": "Timestamp: 2:14 of Original Song",
+        "Type": "What was Sampled: Vocals", 
+        "Genre": "Genre: N/A",
+        "Date": "Date: 2012",
+        "Pitch": "Pitch: None",
+        "Location": "Location: America"
+        }
+    ],
+    "Donda:Heaven and Hell":[
+        {
+        "Sample": "Heaven and Hell Is on Earth", 
+        "Artist": "20th Century Steel Band",
+        "Link": "https://www.youtube.com/embed/n6EIxvjkdMM",
+        "Timestamp": "Timestamp: 0:00 of Original Song",
+        "Type": "What was Sampled: Vocals", 
+        "Genre": "Genre: reggae",
+        "Date": "Date: 1975",
+        "Pitch": "Pitch: Pitched Up",
+        "Location": "Location: United Kingdom"
+        }
+    ],
+    "Donda:Lord I Need You":[
+        {
+        "Sample": "Make Me Over Again", 
+        "Artist": "Bri Babineaux",
+        "Link": "https://www.youtube.com/embed/M8NfPPga26E",
+        "Timestamp": "Timestamp: 1:52 of Original Song",
+        "Type": "What was Sampled: Instrumental + Vocals", 
+        "Genre": "Genre: gospel",
+        "Date": "Date: 2015",
+        "Pitch": "Pitch: Pitched Down",
         "Location": "Location: America"
         }
     ]
