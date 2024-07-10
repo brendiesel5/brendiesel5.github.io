@@ -146,7 +146,7 @@ async function get_albums_and_songs(){
     if (album["name"].includes("No Face")) continue;
     if (album["name"].includes("CARNIVAL")) continue;
     if (album["name"].includes("TALKING")) continue;
-    if (album["name"].includes("VULTURES PACK")) continue;
+    if (album["name"].includes("VULTURES")) continue;
     if (album["name"].includes("Where They At")) continue;
     if (album["name"].includes("Stand United")) continue;
     if (album["name"].includes("Hot Shit")) continue;
