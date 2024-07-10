@@ -142,6 +142,15 @@ async function get_albums_and_songs(){
     if (album["name"].includes("Exclusive")) continue;
     if (album["name"].includes("Orchestration")) continue;
     if (album["name"].includes("Edited")) continue;
+    if (album["name"].includes("Gimme a Second 2")) continue;
+    if (album["name"].includes("No Face")) continue;
+    if (album["name"].includes("CARNIVAL")) continue;
+    if (album["name"].includes("TALKING")) continue;
+    if (album["name"].includes("VULTURES PACK")) continue;
+    if (album["name"].includes("Where They At")) continue;
+    if (album["name"].includes("Stand United")) continue;
+    if (album["name"].includes("Hot Shit")) continue;
+    if (album["name"] == "VULTURES") continue;
     if (names.has(album["name"])) continue;
 
     //for now
