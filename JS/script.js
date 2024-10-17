@@ -150,6 +150,8 @@ async function get_albums_and_songs(){
     if (album["name"].includes("Where They At")) continue;
     if (album["name"].includes("Stand United")) continue;
     if (album["name"].includes("Hot Shit")) continue;
+    if (album["name"].includes("No Apologies")) continue;
+    if (album["name"].includes("SLIDE")) continue;
     if (album["name"] == "VULTURES") continue;
     if (names.has(album["name"])) continue;
 
